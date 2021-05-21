@@ -1,0 +1,59 @@
+\babel@toc {french}{}
+\contentsline {paragraph}{Remerciements :\\}{3}{section*.2}%
+\contentsline {paragraph}{Dédicace :\\}{3}{section*.3}%
+\contentsline {paragraph}{Amitiés :\\}{3}{section*.4}%
+\contentsline {paragraph}{Liminaire :\\}{3}{section*.5}%
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}toutes les rimes en fin de mot en ajoutant progressivement une seule lettre au début du mot précédent}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}toutes les rimes en début de mot en ajoutant progressivement une seule lettre à la fin du mot précédent}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}toutes les rimes en début de mot (avec des mots ou expressions composés, tiret ou espace du dictionnaire)}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}toutes les rimes en fin de mot (avec des mots ou expressions composés, tiret ou espace du dictionnaire)}{4}{subsection.1.4}%
+\contentsline {paragraph}{oui mais alors, pour les 4 points cités ci-dessus, jusqu'à quelle profondeur peut-on aller avec la langue française ?}{4}{section*.6}%
+\contentsline {subsection}{\numberline {1.5}le premier cas le plus courant sont les rimes contenant quelques lettres communes en fin de mot, ceci évidemment dans des mots distincts du dictionnaire}{4}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}le second cas le plus courant sont les rimes contenant quelques lettres communes en début de mot, ceci évidemment dans des mots distincts du dictionnaire}{5}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}séquence de lettres se déplaçant d'une ou plusieurs lettres progressivement}{5}{subsection.1.7}%
+\contentsline {paragraph}{oui mais alors, pour les 3 points supplémentaires cités ci-dessus, jusqu'à quelle profondeur peut-on aller avec la langue française ?}{5}{section*.7}%
+\contentsline {subsection}{\numberline {1.8}les expressions de la langue française}{5}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}rimes sonores en début de mots}{6}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}rimes sonores en fin de mots}{6}{subsection.1.10}%
+\contentsline {section}{\numberline {2}Toutes ces questions ont bien-entendu des réponses, en fonction du dictionnaire qu'on va choisir}{7}{section.2}%
+\contentsline {section}{\numberline {3}Résultats sous forme de graphiques}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Rimes à l'oeil en fin de mots}{8}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}profondeur de rimes}{8}{subsubsection.3.1.1}%
+\contentsline {paragraph}{rimes de 2 lettres dans une profondeur de 2 mots (c'est la courbe p2):\\}{8}{section*.8}%
+\contentsline {paragraph}{rimes de 2 lettres dans une profondeur de 3 mots (c'est la courbe p3):\\}{8}{section*.9}%
+\contentsline {paragraph}{rimes de 2 lettres dans une profondeur de 7 mots (c'est la courbe p7):\\}{8}{section*.10}%
+\contentsline {paragraph}{rimes de 2 lettres en fin de mots du dictionnaire, avec des mots ou expression composées (tiret ou espace):\\}{9}{section*.11}%
+\contentsline {paragraph}{rimes de 3 lettres en fin de mots du dictionnaire, avec des mots ou expression composées (tiret ou espace):\\}{9}{section*.12}%
+\contentsline {paragraph}{rimes de 7 lettres en fin de mots du dictionnaire, avec des mots ou expression composées (tiret ou espace):\\}{9}{section*.13}%
+\contentsline {paragraph}{rimes de 2 lettres en fin de mots du dictionnaire, avec n'importe quelle séquence de lettres :\\}{10}{section*.14}%
+\contentsline {paragraph}{rimes de 7 lettres en fin de mots du dictionnaire, avec n'importe quelle séquence de lettres :\\}{10}{section*.15}%
+\contentsline {paragraph}{rimes de 14 lettres en fin de mots du dictionnaire, avec n'importe quelle séquence de lettres :\\}{10}{section*.16}%
+\contentsline {subsection}{\numberline {3.2}Rimes à l'oeil en début de mots}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}profondeur de rimes}{11}{subsubsection.3.2.1}%
+\contentsline {paragraph}{rimes de 3 lettres en début de mots du dictionnaire, profondeur de 3 mots :\\}{11}{section*.17}%
+\contentsline {paragraph}{rimes de 3 lettres en début de mots du dictionnaire, profondeur de 4 mots :\\}{11}{section*.18}%
+\contentsline {paragraph}{rimes de 7 lettres en début de mots du dictionnaire, profondeur de 3 mots :\\}{11}{section*.19}%
+\contentsline {paragraph}{rimes composés d'un mot du dictionnaire, de 5 lettres, en début de mot :\\}{12}{section*.20}%
+\contentsline {paragraph}{rimes composés d'un mot du dictionnaire, de 15 lettres, en début de mot :\\}{12}{section*.21}%
+\contentsline {paragraph}{rimes de 8 lettres en début de mot :\\}{13}{section*.22}%
+\contentsline {subsection}{\numberline {3.3}Rimes à l'oeil "glissantes"}{14}{subsection.3.3}%
+\contentsline {paragraph}{rimes glissante de 2 lettres sur une profondeur de 9 mots :\\}{14}{section*.23}%
+\contentsline {paragraph}{rimes glissante de 2 lettres sur une profondeur de 9 mots :\\}{14}{section*.24}%
+\contentsline {paragraph}{rimes glissante de 9 lettres sur une profondeur de 2 mots :\\}{14}{section*.25}%
+\contentsline {subsection}{\numberline {3.4}Rimes sonores en début de mots}{15}{subsection.3.4}%
+\contentsline {paragraph}{5 mots dont le début de prononciation rime avec :\\}{15}{section*.26}%
+\contentsline {paragraph}{24 mots dont le début de prononciation rime avec :\\}{16}{section*.27}%
+\contentsline {subsection}{\numberline {3.5}Rimes sonores en fin de mots}{16}{subsection.3.5}%
+\contentsline {paragraph}{2 mots dont la fin de prononciation rime avec :\\}{16}{section*.28}%
+\contentsline {paragraph}{6 mots dont la fin de prononciation rime avec :\\}{16}{section*.29}%
+\contentsline {subsection}{\numberline {3.6}Expressions}{17}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Conclusions}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Alors ces rimes ?}{19}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Une langue vivante }{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Métaphysique des rimes}{19}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Pour finir}{19}{subsection.4.4}%
+\contentsline {section}{\numberline {A}Quelques réflexions sur la quantité de lignes de code nécessaires à ce travail de recherche}{20}{appendix.A}%
+\contentsline {section}{\numberline {B}Anecdote}{21}{appendix.B}%
+\contentsline {section}{\numberline {C}Source des scripts et dictionnaires}{21}{appendix.C}%
+\contentsline {section}{\numberline {D}Source des expressions}{21}{appendix.D}%

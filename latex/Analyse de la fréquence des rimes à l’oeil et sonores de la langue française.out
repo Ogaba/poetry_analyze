@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{toutes les rimes en fin de mot en ajoutant progressivement une seule lettre au d\351but du mot pr\351c\351dent}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{toutes les rimes en d\351but de mot en ajoutant progressivement une seule lettre \340 la fin du mot pr\351c\351dent}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{toutes les rimes en d\351but de mot \(avec des mots ou expressions compos\351s, tiret ou espace du dictionnaire\)}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{toutes les rimes en fin de mot \(avec des mots ou expressions compos\351s, tiret ou espace du dictionnaire\)}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{le premier cas le plus courant sont les rimes contenant quelques lettres communes en fin de mot, ceci \351videmment dans des mots distincts du dictionnaire}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{le second cas le plus courant sont les rimes contenant quelques lettres communes en d\351but de mot, ceci \351videmment dans des mots distincts du dictionnaire}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{s\351quence de lettres se d\351pla\347ant d'une ou plusieurs lettres progressivement}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.8}{les expressions de la langue fran\347aise}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.9}{rimes sonores en d\351but de mots}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.10}{rimes sonores en fin de mots}{section.1}% 11
+\BOOKMARK [1][-]{section.2}{Toutes ces questions ont bien-entendu des r\351ponses, en fonction du dictionnaire qu'on va choisir}{}% 12
+\BOOKMARK [1][-]{section.3}{R\351sultats sous forme de graphiques}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Rimes \340 l'oeil en fin de mots}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.1.1}{profondeur de rimes}{subsection.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.2}{Rimes \340 l'oeil en d\351but de mots}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.2.1}{profondeur de rimes}{subsection.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.3}{Rimes \340 l'oeil "glissantes"}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.4}{Rimes sonores en d\351but de mots}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.5}{Rimes sonores en fin de mots}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.6}{Expressions}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{Alors ces rimes ?}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.2}{Une langue vivante }{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.3}{M\351taphysique des rimes}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.4}{Pour finir}{section.4}% 26
+\BOOKMARK [1][-]{appendix.A}{Quelques r\351flexions sur la quantit\351 de lignes de code n\351cessaires \340 ce travail de recherche}{}% 27
+\BOOKMARK [1][-]{appendix.B}{Anecdote}{}% 28
+\BOOKMARK [1][-]{appendix.C}{Source des scripts et dictionnaires}{}% 29
+\BOOKMARK [1][-]{appendix.D}{Source des expressions}{}% 30
