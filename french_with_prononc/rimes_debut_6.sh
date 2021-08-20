@@ -22,7 +22,7 @@ for _I in {1..20}; do
  >$_EXEC
  echo ">${_DIR_SUFFIX}/$_LANG.UTF-8.l${_I}.${_SUFFIX}" >> $_EXEC
  echo "cat ${_DIR_PREFIX}/${_PREFIX}${_I}.debut_dic | while IFS=\";\" read -r _SEQ; do" >> $_EXEC
-  echo "grep \"^\${_SEQ}\" ${_DIR_PREFIX}/$_LANG.UTF-8.dic | sort -u | sed -e 's/\\\\-/-/g' | tr '\\n' ';' | sed -e 's/;\$//' >> ${_DIR_SUFFIX}/$_LANG.UTF-8.l${_I}.${_SUFFIX}" >> $_EXEC
+  echo "grep \"^\${_SEQ}\" ${_DIR_PREFIX}/$_LANG.UTF-8.dic | sort -u | sed -e 's/\\\\-/-/g' | tr '\\n' ';' | sed -e 's/^ //' -e 's/;\$//' >> ${_DIR_SUFFIX}/$_LANG.UTF-8.l${_I}.${_SUFFIX}" >> $_EXEC
   echo "echo \"\" >> ${_DIR_SUFFIX}/$_LANG.UTF-8.l${_I}.${_SUFFIX}" >> $_EXEC
  echo "done" >> $_EXEC
  chmod u+x ./$_EXEC && ./$_EXEC &

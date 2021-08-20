@@ -19,7 +19,7 @@ for _L in {{a..z},{A..Z},é,ê,è,à,ç,ù,û,â,ô,ö,û,ü,î,ï}; do
  rm -Rf words.$1.$2/words.${_L}* 2>/dev/null
 done
 rm -Rf words.$1.$2/* 2>/dev/null
-if [ ! -f ${_PREFIX}.g${_I}-$_J.rimes ]; then
+if [ ! -f ${_DIR_SUFFIX}/${_PREFIX}.g${_I}-$_J.rimes ]; then
  echo " purge de ${_DIR_SUFFIX}/${_PREFIX}.g${_I}-$_J.rimes"
  rm -f ${_DIR_SUFFIX}/${_PREFIX}.g${_I}-$_J.rimes
 fi

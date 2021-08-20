@@ -198,7 +198,12 @@ f_set_ylabel_rimes_glissantes()
 
 f_set_ylabel_nombre_lev_seq_rimes()
 {
- printf "\nset ylabel \"Fréquence d'apparition de distance cumulée entre les rimes d'une séquence (échelle logarithmique))\"\n" >> $_TMP
+ printf "\nset ylabel \"Fréquence d'apparition de distance cumulée entre les rimes d'une séquence (échelle linéaire)\"\n" >> $_TMP
+}
+
+f_set_ylabel_logarithme_lev_seq_rimes()
+{
+ printf "\nset ylabel \"Fréquence d'apparition de distance cumulée entre les rimes d'une séquence (échelle logarithmique)\"\n" >> $_TMP
 }
 
 f_set_ylabel_logarithme_pron()

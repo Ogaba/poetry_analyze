@@ -29,21 +29,26 @@ export PATH=/opt/freeware/bin:$PATH
 _TMP=~/tmp/$0.tmp.$$
 _DATA="rimes_fin1_debut2.lev_freq"
 _FIC2=${_DATA}.png
+_XMAX=`tail -n1 $_DATA | awk '{ print $2 }'`
+_YMAX=`cat $_DATA | awk '{ print $1 }' | sort -g | tail -n1`
+_NB_RIMES=`cat $_DATA | awk '{ print $1 }' | tr '\n' '+' | sed 's/+$/\n/' | bc -l`
 
 # Generate Plot if data exists
 >$_TMP
-f_set_terminal_png 6000 4000
+f_set_terminal_png 7000 4000
 f_set_margins
-echo "set boxwidth 0.5" >> $_TMP
+echo "set boxwidth 0.1" >> $_TMP
 echo "set style fill solid" >> $_TMP
 echo "set multiplot" >> $_TMP
-echo "set key title \"Fréquence d'apparition d'une distance cumulée entre les mots d'une séquence de rimes, en fonction de la distance cumulée\"" >> $_TMP
+echo "set key title \"Fréquence d'apparition d'une distance cumulée entre les mots d'une séquence de rimes, en fonction de la distance cumulée entre les mots de ces rimes ($_NB_RIMES analysées)\"" >> $_TMP
 f_set_xlabel_nombre_lev
-f_set_ylabel_nombre_lev_seq_rimes
-#echo "set logscale y" >> $_TMP
-echo "set xrange [1:8]" >> $_TMP
-echo "set yrange [0.9:3000]" >> $_TMP
-#echo "set ytics (\"0\" 0.1, \"1\" 1, \"10\" 10, \"100\" 100, \"500\" 500, \"1000\" 1000, \"3000\" 3000)" >> $_TMP
+f_set_ylabel_logarithme_lev_seq_rimes
+#echo "set logscale x" >> $_TMP
+echo "set logscale y" >> $_TMP
+echo "set xrange [0:$_XMAX]" >> $_TMP
+echo "set yrange [0:$_YMAX]" >> $_TMP
+#echo "set xtics (\"0\" 0.1, \"1\" 1, \"3\" 3, \"5\" 5)" >> $_TMP
+echo "set ytics (\"0\" 0.1, \"1\" 1, \"10\" 10, \"100\" 100, \"1000\" 1000, \"10000\" 10000, \"100000\" 100000)" >> $_TMP
 #echo "set samples 400" >> $_TMP
 echo -n "plot " >> $_TMP
 echo " adding ${_DATA} ..."

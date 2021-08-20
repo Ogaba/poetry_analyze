@@ -255,7 +255,6 @@ baguenaude;baguenauder;baguenaudier
 ballonnement;ballonner;ballonnet
 bamboche;bambocher;bambocheuse
 baragouin;baragouinage;baragouiner;baragouineuse
-baratiner;baratineur ;baratineuse
 barbouillage;barbouille;barbouiller;barbouilleuse
 barguignage;barguigner;barguigneuse
 bataille;batailler;batailleuse
@@ -346,7 +345,7 @@ capitalisable;capitalisante;capitalisation;capitaliser;capitalisme;capitaliste;c
 capitulaire;capitularde;capitulation
 caractérielle;caractérisable;caractérisante;caractérisation;caractériser;caractéristique;caractérologie;caractérologique
 carambolage;carambole;caramboler;carambolier
-carambouillage;carambouille;carambouilleur;carambouilleuse 
+carambouillage;carambouille;carambouilleur
 carbonara;carbonarisme;carbonaro
 carbonatation;carbonate;carbonater;carbonatite
 carboxylase;carboxylate;carboxylation;carboxyle;carboxylique
@@ -856,10 +855,8 @@ diminutif;diminution;diminutive
 dinosaure;dinosaurien;dinosaurienne
 diphtongaison;diphtongue;diphtonguer
 diplomate;diplomatie;diplomation;diplomatique
-direction;directionnel ;directionnelle;directionnelle 
 directive;directivisme;directivité
 disciplinable;disciplinaire;discipline;discipliner
-discographie;discographie ;discographique
 discompte;discompter;discompteuse
 discontinuation;discontinue;discontinuisme;discontinuité
 discount;discounter;discounteur
@@ -913,8 +910,6 @@ ecclésiologie;ecclésiologique;ecclésiologue
 éclaboussante;éclaboussement;éclabousser;éclaboussure
 éclairage;éclairagisme;éclairagiste
 éclaircie;éclaircir;éclaircissage;éclaircissement
-écologique;écologique ;écologiquement
-écologisme;écologiste;écologiste 
 économétricienne;économétrie;économétrique
 économicisme;économiciste;économicité;économico-politique;économico-sociale
 économiser;économiseur;économisme;économiste
@@ -1034,7 +1029,7 @@ environnante;environnement;environnementale;environnementalement;environnemental
 épilogue;épiloguer;épilogueuse
 épiphénoménale;épiphénomène;épiphénoménisme;épiphénoméniste
 épiscopale;épiscopalienne;épiscopalisme;épiscopat
-épistémologie;épistémologie ;épistémologique;épistémologique ;épistémologiquement;épistémologiste;épistémologue;épistémologue 
+épistémologie;épistémologique;épistémologiquement;épistémologiste;épistémologue
 épithéliale;épithélioïde;épithélioma;épithélium
 époussetage;épousseter;époussette
 épouvantable;épouvantablement;épouvantail;épouvante;épouvantement;épouvanter
@@ -1073,7 +1068,7 @@ ethnologie;ethnologique;ethnologiquement;ethnologue
 étrésillon;étrésillonnement;étrésillonner
 étymologie;étymologique;étymologiquement;étymologiste;étymologue
 euphémisation;euphémiser;euphémisme
-euphorisant ;euphorisante;euphorisation;euphoriser
+euphorisante;euphorisation;euphoriser
 eurocent;eurocentime;eurocentrisme;eurocentriste
 européanisation;européaniser;européanisme;européanité
 euthanasie;euthanasiée;euthanasier;euthanasique;euthanasiste
@@ -1119,7 +1114,6 @@ extra-terrestre;extra-territoriale;extra-territorialité
 extraterrestre;extraterritoriale;extraterritorialité
 extravagamment;extravagance;extravagante;extravaguer
 extravasation;extravasculaire;extravaser
-extraversion;extraverti ;extravertie
 extrémiser;extrémisme;extrémiste
 factorisable;factorisation;factoriser
 fainéante;fainéanter;fainéantise
@@ -1256,13 +1250,12 @@ grappillage;grappiller;grappilleuse;grappillon
 gravillon;gravillonnage;gravillonner;gravillonneuse
 grelotte;grelottement;grelotter
 grenaillage;grenaille;grenailler;grenailleuse
-grenouillage;grenouillante;grenouille;grenouiller;grenouillère;grenouillesque;grenouillette;grenouilleur ;grenouilleuse 
+grenouillage;grenouillante;grenouille;grenouiller;grenouillère;grenouillesque;grenouillette
 gribouillage;gribouille;gribouiller;gribouilleuse
 griffonnage;griffonnement;griffonner;griffonneuse
 grignotement;grignoter;grignoteuse
 grillage;grillager;grillageur
 grisonne;grisonnement;grisonner
-groupusculaire;groupuscule;groupuscule 
 guignole;guignolesque;guignolet
 guillochage;guillocher;guillocheuse;guillochure
 guillotine;guillotinée;guillotiner;guillotineuse
@@ -1516,7 +1509,6 @@ inflexibilité;inflexible;inflexiblement
 influence;influencer;influenceuse
 infographe;infographie;infographique;infographiste
 informaticienne;information;informationnelle;informatique;informatiquement;informatisable;informatisation;informatiser;informative;informatrice
-informel ;informelelle ;informelle;informellement
 ingénier;ingénierie;ingénierique
 ingénieur-conseil;ingénieure;ingénieure-conseil;ingénieures-conseils;ingénieurs-conseils;ingénieuse;ingénieusement
 inhabile;inhabilement;inhabileté
@@ -1654,7 +1646,6 @@ juxtaposable;juxtaposante;juxtaposer;juxtaposition
 kilométrage;kilométrer;kilométrique
 kleptocrate;kleptocratie;kleptocratique
 kremlinologie;kremlinologique;kremlinologue
-laborante;laborantin ;laborantine
 labyrinthe;labyrinthique;labyrinthite;labyrinthodon;labyrinthodonte
 lamarckienne;lamarckisme;lamarckiste
 landgrave;landgraviat;landgravine
@@ -1703,7 +1694,7 @@ magnéto-élasticité;magnéto-électrique;magnéto-optique
 magnétomètre;magnétométrie;magnétomotrice
 magnétopause;magnétophone;magnétophonique
 magnétoscope;magnétoscoper;magnétosphère;magnétosphérique;magnétostatique;magnétostratigraphie;magnétostriction
-magouillage;magouille;magouiller;magouilleur ;magouilleuse
+magouillage;magouille;magouiller;magouilleuse
 maintenabilité;maintenable;maintenance
 malacologie;malacologique;malacologiste;malacologue
 malléabilisation;malléabiliser;malléabilité
@@ -1720,10 +1711,9 @@ manuscriptologie;manuscrit;manuscrite
 manutention;manutentionnaire;manutentionner
 maquignonnage;maquignonne;maquignonner
 marabout;maraboutage;marabouter;maraboutique;maraboutisme
-marathon;marathonien ;marathonienne
 marchandage;marchande;marchander;marchandeuse;marchandisable;marchandisage;marchandisation;marchandise;marchandiser
 maréchalat;maréchale;maréchalerie;maréchaliste
-marginale;marginalement ;marginalisation;marginaliser;marginalisme;marginaliste;marginalité
+marginale;marginalisation;marginaliser;marginalisme;marginaliste;marginalité
 marmotte;marmottement;marmotter;marmotteuse
 maroquin;maroquinage;maroquiner;maroquinerie;maroquinière
 marqueter;marqueterie;marqueteuse
@@ -1743,17 +1733,14 @@ mécanicienne;mécanicisme;mécaniciste;mécanicité
 mécanographe;mécanographie;mécanographique
 mécontente;mécontentement;mécontenter
 médaille;médailler;médailleuse
-médiastin;médiastinal ;médiastinale
 médiatisable;médiatisation;médiatiser
 médicalisante;médicalisation;médicaliser
 médicament;médicamentation;médicamenter;médicamenteuse
 médico-pédagogique;médico-professionnelle;médico-psychologique
 mégalithe;mégalithique;mégalithisme
 mégalomane;mégalomaniaque;mégalomanie
-mendigot ;mendigote;mendigote ;mendigoter
 ménopause;ménopausée;ménopausique
-mensualisation;mensualisation ;mensualiser;mensualiser ;mensualité
-mentholé ;mentholée;mentholée 
+mensualisation;mensualiser;mensualité
 mercanti;mercantile;mercantilisation;mercantiliser;mercantilisme;mercantiliste
 mercerisage;merceriser;merceriseuse
 mésestimation;mésestime;mésestimer
@@ -1779,14 +1766,12 @@ microcalorimètre;microcalorimétrie;microcalorimétrique
 microclimat;microclimatique;microcline
 microéconométrie;microéconomie;microéconomique;microéconomiste
 microfibre;microfibrée;microfibrille
-microfilm;microfilm ;microfilmer;microfiltration;microfiltre
+microfilm;microfilmer;microfiltration;microfiltre
 microgranite;micrographie;micrographique;microgravité
-micro-informatique;micro-informatique ;micro-instruction
 microlite;microlithe;microlithique;microlitique
 micromélange;micromélangeage;micromélie
-micrométéorite;micrométrie;micrométrie ;micrométrique
-micro-ondable;micro-onde;micro-onde 
-micro-ordinateur;micro-ordinateur ;micro-ordre;micro-organisme
+micrométéorite;micrométrie;micrométrique
+micro-ordinateur;micro-ordre;micro-organisme
 microphone;microphonique;microphotographie
 microprocesseur;microprogrammation;microprogramme;microprogrammée;micropropagation
 microscope;microscopie;microscopique
@@ -1794,22 +1779,19 @@ microsociété;microsociologie;microsociologique
 microsomale;microsomatie;microsome;microsomiale
 microtracteur;microtransaction;microtraumatisme
 mignonne;mignonnerie;mignonnet;mignonnette
-militante;militantisme;militantisme 
-militarisation;militariser;militarisme;militarisme ;militariste
+militarisation;militariser;militarisme;militariste
 militaro-économique;militaro-industrielle;militaro-sécuritaire
-millésimale;millésime;millésimer;millésimer 
+millésimale;millésime;millésimer
 milliard;milliardaire;milliardième
 minarchie;minarchisme;minarchiste
 minéralier;minéralier-pétrolier;minéralisable;minéralisante;minéralisation;minéralisatrice;minéraliser;minéralité
 minéralocorticoïde;minéralogie;minéralogique;minéralogiste
 miniature;miniaturer;miniaturisation;miniaturiser;miniaturiste
 minimalisme;minimaliste;minimalité
-ministériat;ministériat ;ministérielle
 misanthrope;misanthropie;misanthropique
-misérabilisme;misérabilisme ;misérabiliste
 missionnaire;missionnariat;missionner
 mithridatisation;mithridatiser;mithridatisme
-mitraillade;mitraillage;mitraillage ;mitraille;mitrailler;mitraillette;mitrailleuse
+mitraillade;mitraillage;mitraille;mitrailler;mitraillette;mitrailleuse
 mobilisable;mobilisante;mobilisation;mobilisatrice
 modélisable;modélisation;modélisatrice
 modernisation;modernisatrice;moderniser;modernisme;modernissime;moderniste
@@ -1817,9 +1799,8 @@ modification;modificative;modificatrice
 moissonnage;moissonner;moissonneuse
 molleton;molletonner;molletonneuse
 monarchie;monarchique;monarchisme;monarchiste
-mondialisation;mondialisation ;mondialiser;mondialisme;mondialisme ;mondialiste;mondialité
-monétarisation;monétariser;monétarisme;monétarisme ;monétariste
-monétisable;monétisation;monétisation 
+mondialisation;mondialiser;mondialisme;mondialiste;mondialité
+monétarisation;monétariser;monétarisme;monétariste
 monocamérale;monocaméralisme;monocamérisme
 monochromateur;monochromatique;monochrome;monochromie
 monolithe;monolithique;monolithisme
@@ -1846,7 +1827,7 @@ multilatérale;multilatéralisme;multilatération
 multilinéaire;multilinéarité;multilingue;multilinguisme
 multimillénaire;multimilliardaire;multimillionnaire
 multimodale;multimodalité;multimode
-multipare;multiparité;multipartisme;multipartisme ;multipartite
+multipare;multiparité;multipartisme;multipartite
 multiple;multiplet;multiplexage;multiplexe;multiplexer;multiplexeur
 multipliable;multiplicande;multiplicateur;multiplication;multiplicative;multiplicativité;multiplicatrice;multiplicité;multiplier;multiplieur
 multiprocesseur;multiprogrammation;multipropriété
@@ -1854,13 +1835,11 @@ municipale;municipalisation;municipaliser;municipalisme;municipaliste;municipali
 munition;munitionnaire;munitionner
 muséographe;muséographie;muséographique
 muséologie;muséologique;muséologue
-musicographe;musicographie;musicographie ;musicographique
+musicographe;musicographie;musicographique
 musicologie;musicologique;musicologue
 mutation;mutationnisme;mutationniste
 mutualisation;mutualiser;mutualisme;mutualiste
-mycoderme;mycoderme ;mycodermique
 mycorhization;mycorhize;mycorhizienne
-myélogramme;myélogramme ;myélographie
 myocardiopathie;myocardique;myocardite
 mystagogie;mystagogique;mystagogue
 mythologie;mythologique;mythologue
@@ -1872,13 +1851,12 @@ nécessitante;nécessité;nécessiter;nécessiteuse
 nécrologe;nécrologie;nécrologique;nécrologue
 nécromancie;nécromancienne;nécromante
 nécrophile;nécrophilie;nécrophilique
-négation;négationnisme;négationnisme ;négationniste
-négativisme;négativisme ;négativiste;négativité
+négation;négationnisme;négationniste
+négativisme;négativiste;négativité
 néo-capitalisation;néo-capitalisme;néo-capitaliste
 néocapitalisation;néocapitalisme;néocapitaliste
 néocoloniale;néocolonialisme;néocolonialiste
 néologiser;néologisme;néologiste
-néoréalisme;néoréalisme ;néoréaliste
 néo-romane;néo-romantique;néo-romantisme
 néoromane;néoromantique;néoromantisme
 néphéline;néphélinique;néphélinite
@@ -1892,7 +1870,6 @@ neurologie;neurologique;neurologiste;neurologue
 neuropathie;neuropathique;neuropathologie;neuropathologique;neuropathologiste
 neurophysiologie;neurophysiologique;neurophysiologiste
 neuropsychiatre;neuropsychiatrie;neuropsychiatrique;neuropsychologie;neuropsychologique;neuropsychologue;neuropsychopharmacologie
-neuroscience;neurosciences ;neuroscientifique
 neurotoxicité;neurotoxine;neurotoxique
 neutralisable;neutralisante;neutralisation;neutraliser;neutralisme;neutraliste;neutralité
 névropathe;névropathie;névropathique
@@ -1903,19 +1880,17 @@ nominalisation;nominaliser;nominalisme;nominaliste
 nominatif;nomination;nominative
 non-comparante;non-comparution;non-comptable
 non-conformisme;non-conformiste;non-conformité
-non-directif ;non-directive;non-directivité
 normalisable;normalisation;normalisatrice;normaliser
 normative;normativisme;normativité
 nourrissage;nourrissante;nourrissement;nourrisseur;nourrisson
 nucléarisation;nucléariser;nucléariste;nucléarité
 numératie;numération;numérative
 numérologie;numérologique;numérologue
-nutrition;nutritionnel ;nutritionnelle;nutritionniste
+nutrition;nutritionnelle;nutritionniste
 objectivable;objectivation;objective;objectivement;objectiver;objectivisation;objectivisme;objectiviste;objectivité
-oblitérateur ;oblitération;oblitératrice
 observance;observante;observantine
 observation;observationnelle;observatoire;observatrice
-obsession;obsessionnel ;obsessionnelle;obsessionnellement
+obsession;obsessionnelle;obsessionnellement
 obstétricale;obstétricienne;obstétrique
 obstruction;obstructionnisme;obstructionniste;obstructive
 occasion;occasionnalisme;occasionnaliste;occasionnelle;occasionnellement;occasionner
@@ -1931,9 +1906,8 @@ odontologie;odontologique;odontologiste;odontologue
 œsophagomalacie;œsophagoplastie;œsophagoscope;œsophagoscopie;œsophagostomie;œsophagotomie
 official;officialisation;officialiser;officialité
 oiseaux-lyres;oiseaux-mouches;oiseaux-soleils
-omniprésence;omniprésent ;omniprésente
 ontologie;ontologique;ontologiquement;ontologisme
-opération;opérationnalisation;opérationnaliser;opérationnalité;opérationnel ;opérationnelle;opérationnelle ;opérationnellement
+opération;opérationnalisation;opérationnaliser;opérationnalité;opérationnelle;opérationnellement
 ophtalmo;ophtalmologie;ophtalmologique;ophtalmologiste;ophtalmologue;ophtalmomètre;ophtalmométrie;ophtalmoplégie;ophtalmoscope;ophtalmoscopie
 opiniâtre;opiniâtrement;opiniâtrer;opiniâtreté
 opportune;opportunément;opportunisme;opportuniste;opportunité
@@ -1959,7 +1933,6 @@ orthoptie;orthoptique;orthoptiste
 orthostate;orthostatique;orthostatisme
 orthotrope;orthotropie;orthotropisme
 oscillation;oscillatoire;oscillatrice
-    ostéo;    ostéocope;    ostéogénie;    ostéographie;    ostéolithe
 ostentation;ostentatoire;ostentatoirement;ostentatrice
 ostéoblaste;ostéoblastique;ostéoblastome
 ostéopathe;ostéopathie;ostéopathique
@@ -1983,7 +1956,6 @@ panégyrie;panégyrique;panégyriste
 pangermanique;pangermanisme;pangermaniste
 panthéon;panthéonisation;panthéoniser
 pantouflage;pantouflarde;pantoufle;pantoufler;pantouflière
-papelard ;papelarde;papelardise
 paperasse;paperasserie;paperassière
 papillon;papillonnage;papillonnante;papillonnement;papillonner;papillonneuse
 papillotage;papillotante;papillote;papillotement;papilloter
@@ -1991,7 +1963,6 @@ papyrologie;papyrologique;papyrologue
 parachutage;parachutale;parachute;parachutée;parachuter;parachutisme;parachutiste
 paraffinage;paraffine;paraffiner;paraffinique
 parallélépipède;parallélépipédique;parallélisable;parallélisation;paralléliser;parallélisme;parallélogramme
-paramédic;paramédical ;paramédicale;paramédicale 
 paramétrable;paramétrage;paramétrer;paramétrique;paramétrisation;paramétriser
 parangon;parangonnage;parangonner
 parapharmaceutique;parapharmacie;parapharmacienne
@@ -2003,12 +1974,10 @@ parcellaire;parcellarisation;parcellariser
 parcelle;parcellement;parceller
 parchemin;parcheminer;parcheminerie;parchemineuse;parcheminière
 parement;parementer;parementure
-parental ;parentale;parentalité
 parlement;parlementaire;parlementarisme;parlementariste;parlementer
 parodontale;parodonte;parodontie;parodontiste;parodontite;parodontologie;parodontologiste;parodontologue;parodontolyse;parodontopathie;parodontose
 paroxysmale;paroxysme;paroxysmique
 parqueter;parqueterie;parqueteuse
-parrainer;parraineur ;parraineuse
 parthénocarpie;parthénogenèse;parthénogénétique
 participante;participation;participationniste;participative;participe;participer;participiale
 particulaire;particularisation;particulariser;particularisme;particulariste;particularité;particule;particulière
@@ -2050,15 +2019,11 @@ percussion;percussionniste;percussive
 pérégrination;pérégrine;pérégriner
 perfectibilité;perfectible;perfection;perfectionnement;perfectionner;perfectionnisme;perfectionniste;perfective
 performance;performante;performative;performativité
-    péricrâne;    péripatétisme;    péristole;    péristystole
-péricarde;péricardique;péricardique ;péricardite
+péricarde;péricardique;péricardite
 périclitante;périclitation;péricliter
-péridural ;péridurale;péridurale 
-périnatal ;périnatale;périnatale ;périnatalité;périnatalogie
+périnatale;périnatalité;périnatalogie
 péripatéticienne;péripatétique;péripatétisme
-périphérie;périphérique;périphérique 
 périphrase;périphraser;périphrastique
-péritonéal ;péritonéale;péritonéale 
 permacultrice;permaculture;permaculturelle
 permanence;permanencière;permanente;permanenter
 permission;permissionnaire;permissive;permissivité
@@ -2069,7 +2034,6 @@ personnage;personnalisable;personnalisation;personnaliser;personnalisme;personna
 personne;personnel;personnelle
 perturbable;perturbante;perturbation;perturbative;perturbatrice
 pestilence;pestilente;pestilentielle
-pétainisme;pétainiste;pétainiste 
 pétition;pétitionnaire;pétitionnement;pétitionner
 pétrarquisante;pétrarquiser;pétrarquisme;pétrarquiste
 pétrochimie;pétrochimique;pétrochimiste
@@ -2083,7 +2047,6 @@ phallocrate;phallocratie;phallocratique
 pharmacocinétique;pharmacodépendance;pharmacodépendante;pharmacodynamie;pharmacodynamique;pharmacogénétique;pharmacognosie;pharmacologie;pharmacologique;pharmacologiste;pharmacologue;pharmacomanie;pharmacopée;pharmacotechnie;pharmacothérapie;pharmacovigilance
 phénoménale;phénoménalisme;phénoménalité;phénoménique;phénoménisme;phénoméniste;phénoménologie;phénoménologique;phénoménologue
 phénotypage;phénotype;phénotypique
-phéromonale;phéromone;phéromone 
 philanthe;philanthrope;philanthropie;philanthropique
 philatélie;philatélique;philatéliste
 philhellène;philhellénique;philhellénisme
@@ -2131,7 +2094,7 @@ plagiotrope;plagiotropie;plagiotropisme
 plaisante;plaisanter;plaisanterie;plaisantin
 planétologie;planétologique;planétologue
 planimétrage;planimétrie;planimétrique
-plasticien ;plasticienne;plasticine;plasticité
+plasticienne;plasticine;plasticité
 plastifiante;plastificateur;plastification;plastifier;plastifieuse
 plastiquage;plastique;plastiquer;plastiqueuse
 plasturgie;plasturgique;plasturgiste
@@ -2151,7 +2114,6 @@ polissonne;polissonner;polissonnerie
 politico-culturelle;politico-économique;politico-financière;politico-judiciaire;politicologue;politico-médiatique;politico-militaire;politico-religieuse;politico-sociale
 politologie;politologique;politologue
 pollinisation;pollinisatrice;polliniser
-    polymathie;    polymathique;    polypeux, euse
 polyandre;polyandrie;polyandrique
 polychroïque;polychroïsme;polychromatique;polychrome;polychromie;polychromique
 polygénique;polygénisme;polygéniste
@@ -2199,7 +2161,6 @@ préexistante;préexistence;préexister
 préfabrication;préfabriqué;préfabriquer
 préfiguration;préfiguratrice;préfigurer
 préformage;préformatage;préformatée;préformation
-préforme;préforme ;préformer
 préhensible;préhensile;préhension
 préhistoire;préhistorienne;préhistorique
 préjudice;préjudiciable;préjudicielle;préjudicier
@@ -2213,13 +2174,13 @@ prescriptible;prescription;prescriptive;prescriptrice
 présélecteur;présélection;présélectionner
 présentable;présentatif;présentation;présentatrice
 préservatif;préservation;préservative;préservatrice
-présidence;présidente;présidentiable;présidentiable ;présidentialisation;présidentialisme;présidentialisme ;présidentialiste;présidentielle
+présidence;présidente;présidentiable;présidentialisation;présidentialisme;présidentialiste;présidentielle
 présidial;présidiale;présidialité
 présomption;présomptive;présomptueuse
 pressurisation;pressuriser;pressuriseur
 prétentiarde;prétentieuse;prétention
 prétérit;prétériter;prétérition
-prévision;prévisionnel ;prévisionnelle;prévisionnelle ;prévisionniste
+prévision;prévisionnelle;prévisionniste
 primitive;primitivisme;primitiviste;primitivité
 principalat;principale;principat;principautaire;principauté
 privatisable;privatisation;privatiser
@@ -2236,7 +2197,7 @@ productibilité;productible;production;productique;productive;productivisme;prod
 professe;professer;professeure
 profession;professionnalisante;professionnalisation;professionnaliser;professionnalisme;professionnelle
 prognathe;prognathie;prognathisme
-programmabilité;programmable;programmateur ;programmathèque;programmation;programmatique;programmatrice;programme;programmer;programmeuse;programmiste
+programmabilité;programmable;programmathèque;programmation;programmatique;programmatrice;programme;programmer;programmeuse;programmiste
 progresser;progression;progressisme;progressiste;progressive;progressivité
 prohibition;prohibitionnisme;prohibitionniste;prohibitive
 projectile;projection;projectionniste;projective;projectivisée
